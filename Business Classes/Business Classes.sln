@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Classes", "Business Classes.csproj", "{A9DC4154-BDA8-452C-BE33-8E7290C0A258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business DataBase", "..\..\..\PitonConsultoria\Business DataBase\Business DataBase.csproj", "{42434F7C-00DE-4897-8272-F04B5645A6EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DC4154-BDA8-452C-BE33-8E7290C0A258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DC4154-BDA8-452C-BE33-8E7290C0A258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DC4154-BDA8-452C-BE33-8E7290C0A258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DC4154-BDA8-452C-BE33-8E7290C0A258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42434F7C-00DE-4897-8272-F04B5645A6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42434F7C-00DE-4897-8272-F04B5645A6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42434F7C-00DE-4897-8272-F04B5645A6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42434F7C-00DE-4897-8272-F04B5645A6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
